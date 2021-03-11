@@ -3,4 +3,4 @@ A Customer feedback System where customers need to pay to send feedback about th
 
 # Deployment to Heroku
 
-You can access the application using this [link](https://warm-lowlands-09875.herokuapp.com/)
+You can access the application using this [link](https://mail-feedjet-0921.herokuapp.com/)
