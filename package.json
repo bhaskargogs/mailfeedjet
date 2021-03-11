@@ -1,0 +1,22 @@
+{
+  "name": "mailfeedjet-server",
+  "version": "1.0.0",
+  "description": "A Customer feedback System where customers need to pay to send feedback about the application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskargogs/mailfeedjet-server.git"
+  },
+  "author": "Bhaskar Gogoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaskargogs/mailfeedjet-server/issues"
+  },
+  "homepage": "https://github.com/bhaskargogs/mailfeedjet-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
