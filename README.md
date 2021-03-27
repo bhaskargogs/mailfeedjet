@@ -7,4 +7,4 @@ Utilized Google OAuth 2.0 strategy using PassportJS separating Dev (local) and p
 
 # Deployment to Heroku
 
-You can access the application using this [link](https://mail-feedjet-0921.herokuapp.com/)
+You can access the Production application using this [link](https://mail-feedjet-0921.herokuapp.com/auth/google)
