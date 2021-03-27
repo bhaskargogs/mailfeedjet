@@ -1,5 +1,5 @@
 # Dependencies
 node_modules/
 package-lock.json
-keys.js
+dev.js
 .vscode/
