@@ -1,5 +1,5 @@
 # Mailfeedjet Server (In Progress)
-A Customer feedback Server side application where customers need to pay to send feedback about the application
+A Customer feedback Application where customers need to pay to send feedback about the application
 
 # Security
 
