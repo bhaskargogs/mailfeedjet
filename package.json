@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/bhaskargogs/mailfeedjet-server#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "concurrently": "^6.0.0",
     "cookie-session": "^1.4.0",
     "cors": "^2.8.5",
@@ -31,6 +32,7 @@
     "mongoose": "^5.13.0",
     "nodemon": "^2.0.9",
     "passport": "^0.4.1",
-    "passport-google-oauth20": "^2.0.0"
+    "passport-google-oauth20": "^2.0.0",
+    "redux-thunk": "^2.3.0"
   }
 }
